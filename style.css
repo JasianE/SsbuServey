@@ -1,0 +1,62 @@
+#title{
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+     }
+  #description{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(25,25,112)
+  }
+  #survey-form{
+    position: relative;
+    element-align: center;
+    
+  }
+  #container{
+    width: auto;
+    height: 1000px;
+    background-color: rgb(127 208 192);
+    position: relative;
+    text-align: center;
+    element-align: center;
+     }
+  #container2{
+    width: 800px;
+    height: 900px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+  }
+  #name{
+    
+  }
+  #email{
+    
+  }
+  #number{
+    
+    
+  }
+  #name-label{
+    font-family: 'Montserrat';
+    
+  }
+  #email-label{
+    font-family: 'Montserrat';
+    
+  }
+  #number-label{
+    font-family: 'Montserrat';
+    
+  }
+  #dropdown{
+    font-family: 'Montserrat';
+    height: 30px;
+    text: bold;
+    width: 160px;
+  }
+  #main{
+    font-family:'Montserrat';
+  }
+  #submit{
+    font-family: 'Montserrat';
+  }
